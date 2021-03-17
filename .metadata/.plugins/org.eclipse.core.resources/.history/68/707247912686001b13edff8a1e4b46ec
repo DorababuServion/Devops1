@@ -1,0 +1,14 @@
+package com.Utilies;
+
+import java.util.Map;
+
+import org.apache.commons.collections4.map.HashedMap;
+
+public class FileEnv {
+	
+	public static void main(String[] args) {
+		
+		public static Map<String, String> filedev = new HashedMap<String, String>();
+	}
+
+}

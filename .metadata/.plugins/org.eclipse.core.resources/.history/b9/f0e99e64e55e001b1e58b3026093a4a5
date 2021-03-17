@@ -1,0 +1,24 @@
+package com.restapi;
+
+import org.testng.annotations.Test;
+
+import io.restassured.RestAssured;
+
+public class Get_demowhether {
+
+	
+	@Test
+	private void DemoWhether() {
+		// TODO Auto-generated method stub
+		
+		
+		
+		
+
+	}
+	
+	
+	
+	
+}
+	

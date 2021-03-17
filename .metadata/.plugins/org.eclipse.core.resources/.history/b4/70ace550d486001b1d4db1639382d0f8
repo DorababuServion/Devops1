@@ -1,0 +1,19 @@
+package com.studentapi;
+
+import org.testng.annotations.Test;
+
+import com.apiconfig.ApiPath;
+
+import io.restassured.RestAssured;
+import io.restassured.response.Response;
+
+public class GetApitest {
+
+	
+	@Test
+	public void getapitest() {
+		// TODO Auto-generated method stub
+		
+		Response response = RestAssured.given().when().get(ApiPath.apiPath.Get_list_of_users);
+	}
+}

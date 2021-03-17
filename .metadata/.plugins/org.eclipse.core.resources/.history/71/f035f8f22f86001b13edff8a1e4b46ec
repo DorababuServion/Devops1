@@ -1,0 +1,10 @@
+package com.apiconfig;
+
+public class ApiPath {
+
+	
+	
+	public static final class apiPath{
+		
+	}
+}

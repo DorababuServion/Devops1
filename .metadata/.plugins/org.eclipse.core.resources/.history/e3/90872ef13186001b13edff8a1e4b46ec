@@ -1,0 +1,11 @@
+package com.apiconfig;
+
+import java.util.Map;
+
+public class HeaderConfig {
+
+	public Map<String,String> defultHeader(){
+		
+	}
+	
+}

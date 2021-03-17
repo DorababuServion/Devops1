@@ -1,0 +1,13 @@
+package com.studentapi;
+
+import org.testng.annotations.Test;
+
+public class GetApitest {
+
+	
+	@Test
+	public void getapitest() {
+		// TODO Auto-generated method stub
+
+	}
+}

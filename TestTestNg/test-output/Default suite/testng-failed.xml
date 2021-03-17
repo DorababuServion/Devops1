@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="none" name="Failed suite [Default suite]">
+  <test parallel="none" name="Default test(failed)">
+    <classes>
+      <class name="org.TestRunner.SampleApplicationTest">
+        <methods>
+          <include name="browsermixTest"/>
+          <include name="lunchbrowserTest"/>
+          <include name="browserquitTest"/>
+          <include name="tc1Test"/>
+          <include name="tc2Test"/>
+        </methods>
+      </class> <!-- org.TestRunner.SampleApplicationTest -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

@@ -1,0 +1,27 @@
+package com.restapi;
+
+import org.testng.annotations.Test;
+
+import io.restassured.RestAssured;
+import io.restassured.specification.RequestSpecification;
+
+public class Get_demowhether {
+
+	
+	@Test
+	private void DemoWhether() {
+		// TODO Auto-generated method stub
+		RestAssured.baseURI="http://restapi.demoqa.com/utilities/weather/city";
+		
+		RequestSpecification  httprequest = RestAssured.given();
+		
+		
+		
+
+	}
+	
+	
+	
+	
+}
+	

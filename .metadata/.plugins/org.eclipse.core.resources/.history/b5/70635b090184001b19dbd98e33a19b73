@@ -1,0 +1,14 @@
+package org.repport;
+
+import org.testng.annotations.BeforeSuite;
+
+public class TestRunner {
+	
+	
+	@BeforeSuite
+	private void TestStarts() {
+		// TODO Auto-generated method stub
+		System.out.println("Test Starts");
+	}	
+
+}

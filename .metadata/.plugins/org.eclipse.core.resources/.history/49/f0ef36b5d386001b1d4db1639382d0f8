@@ -1,0 +1,13 @@
+package com.basetest;
+
+import org.testng.annotations.BeforeClass;
+
+public class BaseTest {
+	
+	@BeforeClass
+	public void bastest() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

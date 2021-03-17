@@ -1,0 +1,21 @@
+package com.Utilies;
+
+import java.io.File;
+import java.io.FileInputStream;
+import java.util.Map;
+import java.util.Properties;
+
+import org.apache.commons.collections4.map.HashedMap;
+
+public class FileEnv {
+	
+	public void propertyRead() {
+		// TODO Auto-generated method stub
+		FileInputStream f = new FileInputStream("C:\\Users\\dorababu.c\\eclipse-workspace\\RestAutomation\\input\\dev.properties");
+		
+		Properties p = new Properties();
+		
+		
+		
+	}
+}

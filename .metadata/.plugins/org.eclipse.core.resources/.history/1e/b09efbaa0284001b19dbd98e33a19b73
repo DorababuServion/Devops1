@@ -1,0 +1,28 @@
+package org.repport;
+
+import org.testng.ITestContext;
+import org.testng.ITestResult;
+import org.testng.TestListenerAdapter;
+
+import com.aventstack.extentreports.reporter.ExtentHtmlReporter;
+
+public class Reporting extends TestListenerAdapter {
+	
+	public ExtentHtmlReporter htmlreport;
+	
+	public void onStart(ITestContext testContext) {
+		
+	}
+	
+	public void onTestSuccess(ITestResult tr) {
+		
+	}
+	
+	public void onTestSkipped(ITestResult tr) {
+		
+	}
+
+	public void onFinish(ITestContext testContext) {
+		
+	}
+}

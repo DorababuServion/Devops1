@@ -1,0 +1,23 @@
+package org.repport;
+
+import org.testng.annotations.BeforeSuite;
+import org.testng.annotations.BeforeTest;
+
+public class TestRunner {
+	
+	
+	@BeforeSuite
+	private void TestStarts() {
+		// TODO Auto-generated method stub
+		System.out.println("Test Starts");
+	}	
+	
+	@BeforeTest
+	private void OpenBrowser() {
+		// TODO Auto-generated method stub
+		System.out.println("User should open the browser");
+	}
+	
+	
+
+}

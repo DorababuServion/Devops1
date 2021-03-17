@@ -1,0 +1,10 @@
+package com.apiconfig;
+
+public class ApiPath {
+
+	
+	
+	public static final class apiPath{
+		public static final String Get_list_of_users="/api/users?page=2";
+	}
+}

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\dorababu.c\eclipse-workspace\SeleniumLog4j"/>
+			<item value="C:\Users\dorababu.c\eclipse-workspace\PavanOnlineProject"/>
+			<item value="C:\Users\dorababu.c\eclipse-workspace\TestngReport"/>
+			<item value="C:\Users\dorababu.c\eclipse-workspace\TestResource"/>
+			<item value="C:\Users\dorababu.c\eclipse-workspace\MOOC"/>
+			<item value="C:\Users\dorababu.c\eclipse-workspace\InternetBankingV1"/>
+			<item value="C:\Users\dorababu.c\eclipse-workspace\MyCucumberTestNg"/>
+			<item value="C:\Users\dorababu.c\eclipse-workspace\TestNgTask"/>
+			<item value="C:\Users\dorababu.c\eclipse-workspace\SystemFiles"/>
+			<item value="C:\Users\dorababu.c\eclipse-workspace\AutomationTestingProject"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="All Catalogs"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="org.report"/>
+			<item value="org.test"/>
+			<item value="org.deploy"/>
+			<item value="org.grid"/>
+			<item value="org.pavan"/>
+			<item value="org.testng"/>
+			<item value="test"/>
+			<item value="com.rest"/>
+			<item value="org.jar"/>
+			<item value="org.mvn"/>
+			<item value="org.log"/>
+			<item value="org.netbanking"/>
+			<item value="org.group"/>
+			<item value="org.mob"/>
+			<item value="org.sample"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="ExtendReport"/>
+			<item value="TestCucumber"/>
+			<item value="JenkinsIntergation"/>
+			<item value="SeleniumGrid"/>
+			<item value="PavanOnlineProject"/>
+			<item value="TestResource"/>
+			<item value="RestAutomation"/>
+			<item value="RestAssured"/>
+			<item value="Log4j"/>
+			<item value="SqlProject"/>
+			<item value="SeleniumLog4j"/>
+			<item value="InternetBankingV1"/>
+			<item value="TestngReport"/>
+			<item value="MyCucumberTestNg"/>
+			<item value="TestNgTask"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>

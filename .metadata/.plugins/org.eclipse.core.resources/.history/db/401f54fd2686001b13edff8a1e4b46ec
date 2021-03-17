@@ -1,0 +1,16 @@
+package com.Utilies;
+
+import java.util.Map;
+
+import org.apache.commons.collections4.map.HashedMap;
+
+public class FileEnv {
+	
+	public void propertyRead() {
+		// TODO Auto-generated method stub
+
+		
+		
+		
+	}
+}
